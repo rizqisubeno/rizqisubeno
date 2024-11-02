@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning a Machine Learning especially Deep Learning, RL & IRL<br>
+I'm currently learning a Machine Learning especially Deep Learning, Reinforcement Learning & Inverse Reinforcement Learning<br>
 
 
 ## 🌐 Socials:
